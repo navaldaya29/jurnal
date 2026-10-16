@@ -1,1 +1,1 @@
-# jurnal
+# jurnal-sync
